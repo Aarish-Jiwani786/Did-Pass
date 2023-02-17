@@ -3,7 +3,7 @@ import StudentController from './controllers/StudentController';
 // import StudentModel from './models/StudentModel';
 
 const app: Express = express();
-const PORT = 2045;
+const PORT = 3032;
 
 app.use(express.json());
 
